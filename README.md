@@ -1,9 +1,14 @@
-# api documentation for  [cordova-plugin-geolocation (v2.4.2)](https://github.com/apache/cordova-plugin-geolocation#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-geolocation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-geolocation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-geolocation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-geolocation)
+# npmdoc-cordova-plugin-geolocation
+
+#### api documentation for  [cordova-plugin-geolocation (v2.4.2)](https://github.com/apache/cordova-plugin-geolocation#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-geolocation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-geolocation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-geolocation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-geolocation)
+
 #### Cordova Geolocation Plugin
 
-[![NPM](https://nodei.co/npm/cordova-plugin-geolocation.png?downloads=true)](https://www.npmjs.com/package/cordova-plugin-geolocation)
+[![NPM](https://nodei.co/npm/cordova-plugin-geolocation.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-geolocation)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-cordova-plugin-geolocation_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-cordova-plugin-geolocation/build/screenCapture.npmPackageListing.svg)
 
@@ -73,33 +78,26 @@
     "license": "Apache-2.0",
     "maintainers": [
         {
-            "name": "bowserj",
-            "email": "bowserj@apache.org"
+            "name": "bowserj"
         },
         {
-            "name": "csantanapr",
-            "email": "csantana23@gmail.com"
+            "name": "csantanapr"
         },
         {
-            "name": "filmaj",
-            "email": "maj.fil@gmail.com"
+            "name": "filmaj"
         },
         {
-            "name": "purplecabbage",
-            "email": "purplecabbage@gmail.com"
+            "name": "purplecabbage"
         },
         {
-            "name": "shazron",
-            "email": "shazron@gmail.com"
+            "name": "shazron"
         },
         {
-            "name": "stevegill",
-            "email": "stevengill97@gmail.com"
+            "name": "stevegill"
         }
     ],
     "name": "cordova-plugin-geolocation",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/apache/cordova-plugin-geolocation.git"
@@ -111,16 +109,6 @@
     "version": "2.4.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module cordova-plugin-geolocation](#apidoc.module.cordova-plugin-geolocation)
-
-
-
-# <a name="apidoc.module.cordova-plugin-geolocation"></a>[module cordova-plugin-geolocation](#apidoc.module.cordova-plugin-geolocation)
 
 
 
